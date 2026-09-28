@@ -23,7 +23,7 @@ window.PSGICE = window.PSGICE || {};
    Times, if confirmed, go in `date`.
    ============================================================ */
 PSGICE.events = {
-  lastUpdated: 'September 24, 2026',
+  lastUpdated: 'September 28, 2026',
 
   upcoming: [
     { title: 'CE Day — A Day in Monte Carlo', status: 'announced', date: '', venue: '', blurb: '', team: 'gold' },
