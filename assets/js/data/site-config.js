@@ -18,6 +18,6 @@ window.PSGICE = window.PSGICE || {};
    ============================================================ */
 PSGICE.siteConfig = {
   baseUrl: 'https://psginstituteofcivilengineering.github.io',
-  noindex: true,
+  noindex: false,
   ogImagePath: 'assets/img/og-share-1200x630.png'
 };
